@@ -105,41 +105,6 @@
       "imgUrl": "https://i.wakacje.pl/no-index/hotel/turcja/turquoise-resort-basen-825760431-1200-800.jpg",
       "price": 900,
       "days": 12
-    },
-    {
-      "id": 4,
-      "name": "Salamis Bay Conti",
-      "country": "Cyprus",
-      "rating": 8.8,
-      "info": {
-        "board": "All inclusive: breakfast, lunch and dinner buffet. Light snacks throughout the day. Local alcoholic and non-alcoholic drinks are served from 10:00 to 00:00 in selected bars. All Inclusive is valid until 18.00 on the day of departure.\n\nUltra All Inclusive / All Inclusive Plus (UAI / AI +) - breakfast, late breakfast, lunch, dinner, snacks in between meals, night meal. Local alcoholic and non-alcoholic drinks are served from 10:00 to 00:00 in selected bars. All Inclusive is valid until 18.00 on the day of departure.",
-        "rooms": "Standard Room\n\n• individually controlled air-conditioning\n\n• bathroom (toilet, shower / bath, hair dryer)\n\n• TV-Sat, telephone\n\n• mini-bar (payable)\n\n• safe, Wi-Fi internet (free)\n\n• balcony / terrace\n\nFamily Room\n\n• two-room apartment with a separate bedroom\n\n• family rooms are in a side building\n\nOne-storey villa\n\n• situated in the building by the pool\n\n• a living room with a bedroom or a separate bedroom\n\n• area of \u200B\u200Bapprox. 35 m2\n\nDuplex villa\n\n• situated in the building by the pool\n\n• living room + sleeping area on the 1st floor, bedroom on the 2nd floor, 2 bathrooms\n\n• area approx. 57 m2"
-      },
-      "facilities": {
-        "hotel": [
-          "Directly on the beach",
-          "Internet access",
-          "For families with children",
-          "Near the airport",
-          "Air conditioning",
-          "Without passport",
-          "Seaside resorts",
-          "Kindergarten",
-          "Spa & Wellness"
-        ],
-        "attractions": [
-          "Outdoor swimming pool",
-          "Nightlife",
-          "Water slides",
-          "Fitness / Gym",
-          "Sport",
-          "Animations for adults",
-          "Water Sports"
-        ]
-      },
-      "imgUrl": "https://i.wakacje.pl/no-index/hotel/cypr/salamis-bay-conti-beach-bar-sport-i-rekreacja-plaza-824358483-1200-800.jpg",
-      "price": 953,
-      "days": 7
     }
 
   ]

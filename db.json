@@ -1,0 +1,215 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Ascos Coral Beach",
+      "country": "Cyprus",
+      "rating": 8.5,
+      "info": {
+        "board": "HalfBoard (HB) - buffet breakfast and dinner. Supplementary drinks for dinner.\n\nAll Inclusive (AI) - breakfast, lunch, dinner buffet, between meals / afternoon / during the day snacks, coffee, tea, cake, ice cream / ice cream for children. Local soft and alcoholic drinks available during the hours indicated by the hotel.",
+        "rooms": "Standard room\n\n• about 25m2\n\n• balcony / terrace\n\n• air conditioning\n\n• TV-SAT, safe (payable), mini bar / fridge, tea and coffee making facilities\n\n• Wi-Fi internet (payable)\n\n• bathroom (bath / shower, toilet, hair dryer)\n\n• Telephone\n\n• Sea view rooms at an additional cost\n\nFamily Room\n\n• about 30m2\n\n• equipment similar to standard room"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "For families with children",
+          "Air conditioning",
+          "Near the airport",
+          "Facilities for the disabled",
+          "Seaside resorts",
+          "Without a passport",
+          "Kindergarten"
+        ],
+        "attractions": [
+          "Indoor swimming pool",
+          "Outdoor swimming pool",
+          "Diving",
+          "Fitness / Gym",
+          "Sport",
+          "Animation for adults",
+          "Water Sports",
+          "Windsurfing",
+          "Tennis"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/cypr/ascos-coral-beach-teren-hotelu-basen-brodzik-825666216-1200-800.jpg",
+      "price": 883,
+      "days": 7
+    },
+    {
+      "id": 2,
+      "name": "Bella Vista",
+      "country": "Malta",
+      "rating": 7.0,
+      "info": {
+        "board": "Bed & Breakfast (BB) - buffet breakfast.\n\nHalfBoard (HB) - buffet breakfast and dinner. Supplementary drinks for dinner.\n\nFull Board (FB) - breakfast, lunch, dinner buffet. Drinks with lunch and dinner payable.\n\nAll Inclusive (AI) - breakfast, lunch, dinner buffet, between meals / afternoon / during the day snacks, coffee, tea, cake, ice cream / ice cream for children. Local soft and alcoholic drinks available during the hours indicated by the hotel.\n",
+        "rooms": "Standard rooms\n\n• air conditioning / heating\n\n• bathroom (bath / shower, toilet, hair dryer)\n\n• Wi Fi Internet (payable)\n\n• Telephone\n\n• TV-SAT, mini bar / fridge (free)\n\n• kettle, cups\n\n• safe (payable)\n\n• internal view\n\nSuperior room\n\n• tea and coffee making facilities\n\n• safe (deposit 12eur)\n\n• equipment similar to standard room\n\n• rooms of a better standard and with a better view"
+      },
+      "facilities": {
+        "hotel": [
+          "Internet access",
+          "For families with children",
+          "Air conditioning",
+          "Close to the center",
+          "Near the airport",
+          "Facilities for the disabled",
+          "Seaside resorts",
+          "Without a passport",
+          "Club hotel",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Indoor swimming pool",
+          "Outdoor swimming pool",
+          "Fitness / Gym",
+          "Sport",
+          "Water Sports"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/malta/bella-vista-obiekt-basen-294649379-1200-800.jpg",
+      "price": 587,
+      "days": 7
+    },
+    {
+      "id": 3,
+      "name": "Turquoise Resort Side",
+      "country": "Turkey",
+      "rating": 9.6,
+      "info": {
+        "board": "• restaurants, a la carte restaurants (5), bars (17), a pastry shop\n\nUltra All Inclusive\n\n(24h)\n\n• breakfast (07: 00-10: 00), late breakfast (10: 00-11: 00), lunch (12: 30-14: 30), dinner (19: 00-21: 30), late meal (21 : 30-00: 00), late meal (00: 00-07: 00)\n\n• snacks (12: 30-16: 00)\n\n• afternoon tea (11: 00-23: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\n• packages for newlyweds (on request)\n\nA la carte restaurants\n\n• reservation required.\n\n• Chinese \"Dragon Cin\", seafood \"Turquoise Balik\", Turkish \"Kebap Turk\" - free one visit during a stay in a selected restaurant\n\n• Italian \"Napoliten Italyan\", Turkish \"Steak House\" - payable",
+        "rooms": "• standard rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet), balcony\n\n• deluxe garden / sea view rooms for max. 3 people: 1 bedroom, central air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), balcony\n\n• deluxe sea / garden view family rooms for max. 4 people: 2 bedrooms, connecting door between rooms, central air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), balcony\n\n• lake house pool view rooms for max. 2 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet) , balcony\n\n• lake house pool view rooms with 2 bedrooms for max. 4 people: 2 bedrooms, connecting door between the rooms, access to a shared pool, individual air conditioning, safe (free), tea / coffee making facilities (free), minibar (free, refilled daily), TV, telephone, bathroom (bathtub or shower, toilet), balcony\n\n• lake house swim up rooms for max. 2 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet) , Terrace\n\n• lake house swim up rooms with 2 bedrooms for max. 4 people: 2 bedrooms, connecting door between the rooms, access to a shared pool, individual air conditioning, safe (free), tea / coffee making facilities (free), minibar (free, refilled daily), TV, telephone, bathroom (bathtub or shower, toilet), terrace\n\n• lake house swim up rooms for max. 5 people: living room, 2 bedrooms, connecting door between rooms, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), terrace"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "Internet access",
+          "For families with children",
+          "Air conditioning",
+          "Facilities for the disabled",
+          "Seaside resorts",
+          "Club hotel",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Indoor swimming pool",
+          "Outdoor swimming pool",
+          "Water slides",
+          "Diving",
+          "Fitness / Gym",
+          "Sport",
+          "Animations for adults",
+          "Water Sports",
+          "Tennis"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/turcja/turquoise-resort-basen-825760431-1200-800.jpg",
+      "price": 900,
+      "days": 12
+    },
+    {
+      "id": 4,
+      "name": "Salamis Bay Conti",
+      "country": "Cyprus",
+      "rating": 8.8,
+      "info": {
+        "board": "All inclusive: breakfast, lunch and dinner buffet. Light snacks throughout the day. Local alcoholic and non-alcoholic drinks are served from 10:00 to 00:00 in selected bars. All Inclusive is valid until 18.00 on the day of departure.\n\nUltra All Inclusive / All Inclusive Plus (UAI / AI +) - breakfast, late breakfast, lunch, dinner, snacks in between meals, night meal. Local alcoholic and non-alcoholic drinks are served from 10:00 to 00:00 in selected bars. All Inclusive is valid until 18.00 on the day of departure.",
+        "rooms": "Standard Room\n\n• individually controlled air-conditioning\n\n• bathroom (toilet, shower / bath, hair dryer)\n\n• TV-Sat, telephone\n\n• mini-bar (payable)\n\n• safe, Wi-Fi internet (free)\n\n• balcony / terrace\n\nFamily Room\n\n• two-room apartment with a separate bedroom\n\n• family rooms are in a side building\n\nOne-storey villa\n\n• situated in the building by the pool\n\n• a living room with a bedroom or a separate bedroom\n\n• area of \u200B\u200Bapprox. 35 m2\n\nDuplex villa\n\n• situated in the building by the pool\n\n• living room + sleeping area on the 1st floor, bedroom on the 2nd floor, 2 bathrooms\n\n• area approx. 57 m2"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "Internet access",
+          "For families with children",
+          "Near the airport",
+          "Air conditioning",
+          "Without passport",
+          "Seaside resorts",
+          "Kindergarten",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Outdoor swimming pool",
+          "Nightlife",
+          "Water slides",
+          "Fitness / Gym",
+          "Sport",
+          "Animations for adults",
+          "Water Sports"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/cypr/salamis-bay-conti-beach-bar-sport-i-rekreacja-plaza-824358483-1200-800.jpg",
+      "price": 953,
+      "days": 7
+    },
+    {
+      "id": 5,
+      "name": "Jaz Aquamarine",
+      "country": "Egypt",
+      "rating": 9.0,
+      "info": {
+        "board": "• main restaurant, a la carte restaurants (5), bar\n\nAll Inclusive\n\n(10: 00-00: 00)\n\n• breakfast (07: 00-10: 00), lunch (12: 30-14: 30), dinner (18: 30-22: 00), late meal (23: 00-23: 55)\n\n• late breakfast (11: 00-12: 00), snacks (12: 00-17: 00), afternoon tea (17: 00-18: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\nA la carte restaurants\n\n• paid. Reservation required.\n\n• Chinese Makai Tukai\n\n• Nino's Italian\n\n• Lebanese Sofra\n\n• Corrallo seafood\n\n• Indian Amaya",
+        "rooms": "standard rooms pool / garden view for max. 2 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• superior pool / garden / sea view rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• superior family rooms for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• deluxe family rooms for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• junior suites for max. 2 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), balcony or terrace\n\n• exective suits for max. 4 people : 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), balcony\n\n• royal suites for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), terrace"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "Internet access",
+          "For families with children",
+          "Near the airport",
+          "Facilities for the disabled",
+          "Air conditioning",
+          "Seaside resorts",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Outdoor swimming pool",
+          "Nightlife",
+          "Water slides",
+          "Diving",
+          "Fitness / Gym",
+          "Sport",
+          "Animations for adults",
+          "Water Sports",
+          "Windsurfing",
+          "Tennis"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/egipt/jaz-aquamarine-ex-iberotel-aquamarine-basen-zjezdzalnia-slonce-lato-826761969-1200-800.jpg",
+      "price": 1061,
+      "days": 9
+    },
+    {
+      "id": 6,
+      "name": "Jaz Aquamarine",
+      "country": "Egypt",
+      "rating": 8.1,
+      "info": {
+        "board": "• main restaurant, a la carte restaurants (2), bars (3)\n\nAll Inclusive\n\n(10: 00-00: 00)\n\n• breakfast (07: 00-10: 00), lunch (13: 00-14: 30), dinner (18: 30-21: 30)\n\n• late breakfast (10: 30-12: 30), snacks (15: 30-17: 00), afternoon tea (15: 30-17: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\n• packages for newlyweds and birthday parties (on request)\n\nA la carte restaurants\n\n• one visit for free during your stay. Reservation required.\n\n• Egyptian, Japanese",
+        "rooms": "• standard pool view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea facilities (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• standard sea view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony\n\n• deluxe sea view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony\n\n• royal swim up cave rooms for max. 3 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea facilities (free), minibar (empty), TV, telephone, bathroom (shower, toilet), terrace"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "Internet access",
+          "Near the airport",
+          "Air conditioning",
+          "Seaside resorts",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Outdoor swimming pool",
+          "Diving",
+          "Fitness / Gym",
+          "Sport",
+          "Animations for adults",
+          "Water Sports",
+          "Windsurfing",
+          "Tennis"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/egipt/caves-beach-resort-teren-hotelu-basen-824773110-1200-800.jpg",
+      "price": 799,
+      "days": 9
+    }
+  ]
+}

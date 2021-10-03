@@ -7,7 +7,7 @@
       "rating": 8.5,
       "info": {
         "board": "HalfBoard (HB) - buffet breakfast and dinner. Supplementary drinks for dinner.\n\nAll Inclusive (AI) - breakfast, lunch, dinner buffet, between meals / afternoon / during the day snacks, coffee, tea, cake, ice cream / ice cream for children. Local soft and alcoholic drinks available during the hours indicated by the hotel.",
-        "rooms": "Standard room\n\n• about 25m2\n\n• balcony / terrace\n\n• air conditioning\n\n• TV-SAT, safe (payable), mini bar / fridge, tea and coffee making facilities\n\n"
+        "rooms": "Standard room\n\n• about 25m2\n\n• balcony / terrace\n\n• air conditioning\n\n• TV-SAT, safe (payable), mini bar / fridge, tea and coffee making facilities\n\n• Wi-Fi internet (payable)\n\n• bathroom (bath / shower, toilet, hair dryer)\n\n• Telephone\n\n• Sea view rooms at an additional cost\n\nFamily Room\n\n• about 30m2\n\n• equipment similar to standard room"
       },
       "facilities": {
         "hotel": [
@@ -35,7 +35,39 @@
       "imgUrl": "https://i.wakacje.pl/no-index/hotel/cypr/ascos-coral-beach-teren-hotelu-basen-brodzik-825666216-1200-800.jpg",
       "price": 883,
       "days": 7
-    }
-
-  ]
+    },
+    {
+      "id": 2,
+      "name": "Bella Vista",
+      "country": "Malta",
+      "rating": 7.0,
+      "info": {
+        "board": "Bed & Breakfast (BB) - buffet breakfast.\n\nHalfBoard (HB) - buffet breakfast and dinner. Supplementary drinks for dinner.\n\nFull Board (FB) - breakfast, lunch, dinner buffet. Drinks with lunch and dinner payable.\n\nAll Inclusive (AI) - breakfast, lunch, dinner buffet, between meals / afternoon / during the day snacks, coffee, tea, cake, ice cream / ice cream for children. Local soft and alcoholic drinks available during the hours indicated by the hotel.\n",
+        "rooms": "Standard rooms\n\n• air conditioning / heating\n\n• bathroom (bath / shower, toilet, hair dryer)\n\n• Wi Fi Internet (payable)\n\n• Telephone\n\n• TV-SAT, mini bar / fridge (free)\n\n• kettle, cups\n\n• safe (payable)\n\n• internal view\n\nSuperior room\n\n• tea and coffee making facilities\n\n• safe (deposit 12eur)\n\n• equipment similar to standard room\n\n• rooms of a better standard and with a better view"
+      },
+      "facilities": {
+        "hotel": [
+          "Internet access",
+          "For families with children",
+          "Air conditioning",
+          "Close to the center",
+          "Near the airport",
+          "Facilities for the disabled",
+          "Seaside resorts",
+          "Without a passport",
+          "Club hotel",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Indoor swimming pool",
+          "Outdoor swimming pool",
+          "Fitness / Gym",
+          "Sport",
+          "Water Sports"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/malta/bella-vista-obiekt-basen-294649379-1200-800.jpg",
+      "price": 587,
+      "days": 7
+    }]
 }

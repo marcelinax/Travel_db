@@ -140,43 +140,6 @@
       "imgUrl": "https://i.wakacje.pl/no-index/hotel/cypr/salamis-bay-conti-beach-bar-sport-i-rekreacja-plaza-824358483-1200-800.jpg",
       "price": 953,
       "days": 7
-    },
-    {
-      "id": 5,
-      "name": "Jaz Aquamarine",
-      "country": "Egypt",
-      "rating": 9.0,
-      "info": {
-        "board": "• main restaurant, a la carte restaurants (5), bar\n\nAll Inclusive\n\n(10: 00-00: 00)\n\n• breakfast (07: 00-10: 00), lunch (12: 30-14: 30), dinner (18: 30-22: 00), late meal (23: 00-23: 55)\n\n• late breakfast (11: 00-12: 00), snacks (12: 00-17: 00), afternoon tea (17: 00-18: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\nA la carte restaurants\n\n• paid. Reservation required.\n\n• Chinese Makai Tukai\n\n• Nino's Italian\n\n• Lebanese Sofra\n\n• Corrallo seafood\n\n• Indian Amaya",
-        "rooms": "standard rooms pool / garden view for max. 2 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• superior pool / garden / sea view rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• superior family rooms for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• deluxe family rooms for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• junior suites for max. 2 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), balcony or terrace\n\n• exective suits for max. 4 people : 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), balcony\n\n• royal suites for max. 4 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (payable), TV, telephone, bathroom (bath or shower, toilet), terrace"
-      },
-      "facilities": {
-        "hotel": [
-          "Directly on the beach",
-          "Internet access",
-          "For families with children",
-          "Near the airport",
-          "Facilities for the disabled",
-          "Air conditioning",
-          "Seaside resorts",
-          "Spa & Wellness"
-        ],
-        "attractions": [
-          "Outdoor swimming pool",
-          "Nightlife",
-          "Water slides",
-          "Diving",
-          "Fitness / Gym",
-          "Sport",
-          "Animations for adults",
-          "Water Sports",
-          "Windsurfing",
-          "Tennis"
-        ]
-      },
-      "imgUrl": "https://i.wakacje.pl/no-index/hotel/egipt/jaz-aquamarine-ex-iberotel-aquamarine-basen-zjezdzalnia-slonce-lato-826761969-1200-800.jpg",
-      "price": 1061,
-      "days": 9
     }
 
   ]

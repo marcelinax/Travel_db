@@ -177,39 +177,7 @@
       "imgUrl": "https://i.wakacje.pl/no-index/hotel/egipt/jaz-aquamarine-ex-iberotel-aquamarine-basen-zjezdzalnia-slonce-lato-826761969-1200-800.jpg",
       "price": 1061,
       "days": 9
-    },
-    {
-      "id": 6,
-      "name": "Jaz Aquamarine",
-      "country": "Egypt",
-      "rating": 8.1,
-      "info": {
-        "board": "• main restaurant, a la carte restaurants (2), bars (3)\n\nAll Inclusive\n\n(10: 00-00: 00)\n\n• breakfast (07: 00-10: 00), lunch (13: 00-14: 30), dinner (18: 30-21: 30)\n\n• late breakfast (10: 30-12: 30), snacks (15: 30-17: 00), afternoon tea (15: 30-17: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\n• packages for newlyweds and birthday parties (on request)\n\nA la carte restaurants\n\n• one visit for free during your stay. Reservation required.\n\n• Egyptian, Japanese",
-        "rooms": "• standard pool view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea facilities (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony or terrace\n\n• standard sea view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony\n\n• deluxe sea view cave rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (empty), TV, telephone, bathroom (shower, toilet), balcony\n\n• royal swim up cave rooms for max. 3 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea facilities (free), minibar (empty), TV, telephone, bathroom (shower, toilet), terrace"
-      },
-      "facilities": {
-        "hotel": [
-          "Directly on the beach",
-          "Internet access",
-          "Near the airport",
-          "Air conditioning",
-          "Seaside resorts",
-          "Spa & Wellness"
-        ],
-        "attractions": [
-          "Outdoor swimming pool",
-          "Diving",
-          "Fitness / Gym",
-          "Sport",
-          "Animations for adults",
-          "Water Sports",
-          "Windsurfing",
-          "Tennis"
-        ]
-      },
-      "imgUrl": "https://i.wakacje.pl/no-index/hotel/egipt/caves-beach-resort-teren-hotelu-basen-824773110-1200-800.jpg",
-      "price": 799,
-      "days": 9
     }
+
   ]
 }

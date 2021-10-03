@@ -69,5 +69,41 @@
       "imgUrl": "https://i.wakacje.pl/no-index/hotel/malta/bella-vista-obiekt-basen-294649379-1200-800.jpg",
       "price": 587,
       "days": 7
-    }]
+    },{
+      "id": 3,
+      "name": "Turquoise Resort Side",
+      "country": "Turkey",
+      "rating": 9.6,
+      "info": {
+        "board": "• restaurants, a la carte restaurants (5), bars (17), a pastry shop\n\nUltra All Inclusive\n\n(24h)\n\n• breakfast (07: 00-10: 00), late breakfast (10: 00-11: 00), lunch (12: 30-14: 30), dinner (19: 00-21: 30), late meal (21 : 30-00: 00), late meal (00: 00-07: 00)\n\n• snacks (12: 30-16: 00)\n\n• afternoon tea (11: 00-23: 00)\n\n• ice-cream\n\n• selected local alcoholic and non-alcoholic drinks\n\n• packages for newlyweds (on request)\n\nA la carte restaurants\n\n• reservation required.\n\n• Chinese \"Dragon Cin\", seafood \"Turquoise Balik\", Turkish \"Kebap Turk\" - free one visit during a stay in a selected restaurant\n\n• Italian \"Napoliten Italyan\", Turkish \"Steak House\" - payable",
+        "rooms": "• standard rooms for max. 3 people: 1 bedroom, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet), balcony\n\n• deluxe garden / sea view rooms for max. 3 people: 1 bedroom, central air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), balcony\n\n• deluxe sea / garden view family rooms for max. 4 people: 2 bedrooms, connecting door between rooms, central air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), balcony\n\n• lake house pool view rooms for max. 2 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet) , balcony\n\n• lake house pool view rooms with 2 bedrooms for max. 4 people: 2 bedrooms, connecting door between the rooms, access to a shared pool, individual air conditioning, safe (free), tea / coffee making facilities (free), minibar (free, refilled daily), TV, telephone, bathroom (bathtub or shower, toilet), balcony\n\n• lake house swim up rooms for max. 2 people: 1 bedroom, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, replenished daily), TV, telephone, bathroom (bath or shower, toilet) , Terrace\n\n• lake house swim up rooms with 2 bedrooms for max. 4 people: 2 bedrooms, connecting door between the rooms, access to a shared pool, individual air conditioning, safe (free), tea / coffee making facilities (free), minibar (free, refilled daily), TV, telephone, bathroom (bathtub or shower, toilet), terrace\n\n• lake house swim up rooms for max. 5 people: living room, 2 bedrooms, connecting door between rooms, access to a shared swimming pool, individual air conditioning, safe (free), coffee / tea set (free), minibar (free, refilled daily), TV, telephone, bathroom (shower, toilet), terrace"
+      },
+      "facilities": {
+        "hotel": [
+          "Directly on the beach",
+          "Internet access",
+          "For families with children",
+          "Air conditioning",
+          "Facilities for the disabled",
+          "Seaside resorts",
+          "Club hotel",
+          "Spa & Wellness"
+        ],
+        "attractions": [
+          "Indoor swimming pool",
+          "Outdoor swimming pool",
+          "Water slides",
+          "Diving",
+          "Fitness / Gym",
+          "Sport",
+          "Animations for adults",
+          "Water Sports",
+          "Tennis"
+        ]
+      },
+      "imgUrl": "https://i.wakacje.pl/no-index/hotel/turcja/turquoise-resort-basen-825760431-1200-800.jpg",
+      "price": 900,
+      "days": 12
+    }
+  ]
 }
